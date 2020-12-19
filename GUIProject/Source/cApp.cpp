@@ -1,15 +1,15 @@
-#include "./cApp.h"
+#include "../Headers/cApp.h"
 
 wxIMPLEMENT_APP(cApp);
 
-cApp::cApp() 
+cApp::cApp()
 {
 
-} 
+}
 
 cApp::~cApp()
 {
-
+	delete m_frame1;
 }
 
 bool cApp::OnInit()

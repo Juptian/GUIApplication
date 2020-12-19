@@ -1,4 +1,4 @@
-#include "cMain.h"
+#include "../Headers/cMain.h"
 
 /**
 * @param nullptr window Parent pointer

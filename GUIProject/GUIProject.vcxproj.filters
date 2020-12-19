@@ -15,21 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cApp.h">
+    <ClInclude Include="Source\cMain.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cMain.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Reqs.h">
+    <ClInclude Include="Source\cApp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cApp.cpp">
+    <ClCompile Include="Source\cMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cMain.cpp">
+    <ClCompile Include="Source\cApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -19,13 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cApp.h" />
-    <ClInclude Include="cMain.h" />
-    <ClInclude Include="Reqs.h" />
+    <ClInclude Include="Source\cApp.h" />
+    <ClInclude Include="Source\cMain.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cApp.cpp" />
-    <ClCompile Include="cMain.cpp" />
+    <ClCompile Include="Source\cApp.cpp" />
+    <ClCompile Include="Source\cMain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
