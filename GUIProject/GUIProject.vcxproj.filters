@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Source\cMain.h">
+    <ClInclude Include="Headers\cMain.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Source\cApp.h">
+    <ClInclude Include="Headers\cApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\PCH\Main.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

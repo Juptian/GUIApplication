@@ -11,4 +11,9 @@ public:
 public:
 	cMain();
 	~cMain();
+
+	void OnButtonClicked(wxCommandEvent& event);
+
+	wxDECLARE_EVENT_TABLE();
 };
+

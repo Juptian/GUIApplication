@@ -19,8 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Source\cApp.h" />
-    <ClInclude Include="Source\cMain.h" />
+    <ClInclude Include="Headers\cApp.h" />
+    <ClInclude Include="Headers\cMain.h" />
+    <ClInclude Include="Headers\PCH\Main.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source\cApp.cpp" />
